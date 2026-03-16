@@ -11,12 +11,6 @@
 - 🌱 Focused on front-end development  
 - 🎯 Building interactive and user-friendly interfaces  
 - ✨ Interested in creating warm and meaningful digital experiences  
-
----
-
-## ✨ Motto
-
-> What does not destroy me makes me stronger.
 <!--
 **warm-sun-mi/warm-sun-mi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
