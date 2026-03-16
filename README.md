@@ -1,5 +1,38 @@
-## Hi there 👋
+# Hi 👋 I'm Sun Mi
 
+> 🌙 Stay soft, stay strong.
+
+（杀不死我们的终会使我们更加强大）
+
+---
+
+## 💻 About Me
+
+- 🌱 Focused on front-end development  
+- 🎯 Building interactive and user-friendly interfaces  
+- ✨ Interested in creating warm and meaningful digital experiences  
+
+---
+
+## 🚀 Tech Stack
+
+![My Skills](https://skillicons.dev/icons?i=vue,ts,js,html,css,nodejs,git)
+
+---
+
+## 📌 Current Projects
+
+- 📚 weilai
+- ☁️ Wisdom_Ark  
+- 💙 warm-heart-network  
+- 🌐 echo-sphere  
+
+---
+
+
+## ✨ Motto
+
+> What does not destroy me makes me stronger.
 <!--
 **warm-sun-mi/warm-sun-mi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
