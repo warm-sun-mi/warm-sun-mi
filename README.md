@@ -4,8 +4,6 @@
 
 （杀不死我们的终会使我们更加强大）
 
----
-
 ## 💻 About Me
 
 - 🌱 Focused on front-end development  
