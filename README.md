@@ -14,22 +14,6 @@
 
 ---
 
-## 🚀 Tech Stack
-
-![My Skills](https://skillicons.dev/icons?i=vue,ts,js,html,css,nodejs,git)
-
----
-
-## 📌 Current Projects
-
-- 📚 weilai
-- ☁️ Wisdom_Ark  
-- 💙 warm-heart-network  
-- 🌐 echo-sphere  
-
----
-
-
 ## ✨ Motto
 
 > What does not destroy me makes me stronger.
